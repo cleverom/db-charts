@@ -3,9 +3,9 @@ entries:
   mariadb-galera:
   - apiVersion: v2
     appVersion: "10.5"
-    created: "2024-06-20T00:37:49.417098709Z"
+    created: "2024-06-20T01:12:16.600088152Z"
     description: A Helm chart for MariaDB Galera Cluster
-    digest: 1ce817ed9b11105c8bbf937363530a81da814e9c5e249cda692c358db21fe916
+    digest: 5b35f007bedbebc48503e22198f688f8e964b83d98e793dec7a495dd1c916576
     maintainers:
     - email: cleveromo@gmail.com
       name: clever
@@ -13,4 +13,4 @@ entries:
     urls:
     - mariadb-galera/mariadb-galera-0.1.0.tgz
     version: 0.1.0
-generated: "2024-06-20T00:37:49.416193039Z"
+generated: "2024-06-20T01:12:16.599605411Z"
